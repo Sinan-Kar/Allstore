@@ -1,8 +1,7 @@
 https://sinan-kar.github.io/Allstore/
 
-/*# ReCapProject
 ## Allstore 
-website was created using only
+Website was created using only
  html css and JavaScript as a **response.**
  Allstore is a website containing home 
  textile and glassware products.
