@@ -8,7 +8,7 @@ https://sinan-kar.github.io/Allstore/
  textile and glassware products.
  
 <br>:file_folder:`Html`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Accaunt.html]()  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Accaunt.html](https://github.com/Sinan-Kar/Allstore/blob/master/Accaunt.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Cart.html]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [index.html]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Product-Details.html]()<br>
