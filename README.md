@@ -1,6 +1,6 @@
 https://sinan-kar.github.io/Allstore/
 
-
+/*# ReCapProject
 ## Allstore 
 website was created using only
  html css and JavaScript as a **response.**
