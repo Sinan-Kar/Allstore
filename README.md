@@ -8,10 +8,7 @@ https://sinan-kar.github.io/Allstore/
  textile and glassware products.
 
 
-![bitmap](https://user-images.githubusercontent.com/77868230/107104545-37940380-6833-11eb-88c0-9fa3d4771470.png)  
-Bu repo **Yazılım Geliştirici Yetiştirme Kampı**'nda yapılan çalışmaları kapsayan **Araç Kiralama Projesi**'ni içerir.
 
-N-Katmanlı mimari yapısı ile hazırlanan, EntityFramework kullanılarak CRUD işlemlerinin yapıldığı, Wpf arayüzü ile çalışan, Araç Kiralama iş yerlerine yönelik örnek bir proje.
 ## :books:Layers  
 ![bitmap](https://user-images.githubusercontent.com/77868230/107105115-cb66cf00-6835-11eb-8fd7-9ddc5d7ac56e.png)
 ### Entities Layer
@@ -81,55 +78,7 @@ Bir framework katmanı olan **Core Katmanı**'nda **DataAccess** ve **Entities**
 ### Veritabanı Oluşturma (localdb)
 Araba Kiralama Projemiz localdb ile çalışmaktadır. **LocalDb**'de veritabanı oluşturmak için **Visual Studio 2019** için *View > SQL Server Object Explorer* menü yolunu takip edebilirsiniz.Pencere açıldıktan sonra *SQL Server > (localdb)MSSQLLocalDB* altındaki **Databases** klasörüne sağ tıklayıp Add **New Database** seçeneğini ile veritabanınızı oluşturabilirsiniz. Veritabanı oluşturulduktan sonra **New Query** seçerek aşağıda bulunan Sql File ile veritabanınızda olması gereken tabloları oluşturabilirsiniz.  
 <br>
-:file_folder:`Sql File`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [ReCapProjectDB.sql](https://github.com/ergulkizilkaya/ReCapProject/blob/master/ReCapProjectDB.sql)  
-<br>
-## Tables
-Veritabanı tablolarınızı manuel de oluşturabilirsiniz. Tablolar,sutün ve veri tipleri hakkında bilgiler aşağıda listelenmiştir.   
-<table>
-  <tr>
-    <td>Cars</td>
-     <td>Brands</td>
-     <td>Colors</td>
-  </tr>
-  <tr>
-    <td>
-
-Variable | Data Type
------------- | -------------
-Id | int
-Name | nvarchar(50)
-BrandId | int
-ColorId | int
-ModelYear | int
-DailyPrice | decimal
-Description | nvarchar(50)
-   
-   </td>
-    <td>
-
-Variable | Data Type
------------- | -------------
-Id | int
-Name | nvarchar(50)
-   
-   </td>
-    <td>
-
-Variable | Data Type
------------- | -------------
-Id | int
-Name | nvarchar(50)
-   
-   </td>
-  </tr>
- </table>
-
-
-<br><br>
-![rect1510-4](https://user-images.githubusercontent.com/77868230/107105506-d02c8280-6837-11eb-865f-b2f3b8f4e779.png)
-
-```
+:file_folder:`Sql
 EntityFrameworkCore.SqlServer 3.1.11
 FluentValidation 7.3.3
 ```
