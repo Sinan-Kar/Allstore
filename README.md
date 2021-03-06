@@ -19,4 +19,4 @@ https://sinan-kar.github.io/Allstore/
 <br>
 ## :pencil2:Authors
 * **Sinan Kara** - [Sinan Kara](https://github.com/Sinan-Kar)
- */
+ 
