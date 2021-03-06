@@ -17,6 +17,7 @@ https://sinan-kar.github.io/Allstore/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [style.css](https://github.com/Sinan-Kar/Allstore/blob/master/css/style.css)  
 
 <br>
+/*
 ## :pencil2:Authors
-* **Sinan Kara** - [Sinan Kara](https://github.com/Sinan-Kar)
+* **Sinan Kara** - [Sinan Kara](https://github.com/Sinan-Kar)*/
  
