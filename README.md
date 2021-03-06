@@ -1,1 +1,1 @@
-https://sinan-kar.github.io/Allstore.github.io/
+https://sinan-kar.github.io/Allstore/
