@@ -11,8 +11,8 @@ https://sinan-kar.github.io/Allstore/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Accaunt.html](https://github.com/Sinan-Kar/Allstore/blob/master/Accaunt.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Cart.html]( https://github.com/Sinan-Kar/Allstore/blob/master/Cart.html)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [index.html](https://github.com/Sinan-Kar/Allstore/blob/master/index.html)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Product-Details.html](  ddgf )<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Products.html]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Product-Details.html](  https://github.com/Sinan-Kar/Allstore/blob/master/Product-Details.html )<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Products.html]( ggg )
 <br> <br> :file_folder:`Css`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [EfBrandDal.cs](https://github.com/ergulkizilkaya/ReCapProject/blob/master/ReCapProject.DataAccess/Concrete/EntityFramework/EfBrandDal.cs)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [EfCarDal.cs](https://github.com/ergulkizilkaya/ReCapProject/blob/master/ReCapProject.DataAccess/Concrete/EntityFramework/EfCarDal.cs)  
