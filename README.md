@@ -1,16 +1,16 @@
 https://sinan-kar.github.io/Allstore/
 
-## Allstore 
+
+## :pushpin:Allstore
 **W**ebsite was created using only
  html css and JavaScript as a **response.**
  **Allstore** is a website containing home 
  textile and glassware products.
 
-/*# ReCapProject - Araç Kiralama Sistemi
 
 ![bitmap](https://user-images.githubusercontent.com/77868230/107104545-37940380-6833-11eb-88c0-9fa3d4771470.png)  
 Bu repo **Yazılım Geliştirici Yetiştirme Kampı**'nda yapılan çalışmaları kapsayan **Araç Kiralama Projesi**'ni içerir.
-## :pushpin:Getting Started
+
 N-Katmanlı mimari yapısı ile hazırlanan, EntityFramework kullanılarak CRUD işlemlerinin yapıldığı, Wpf arayüzü ile çalışan, Araç Kiralama iş yerlerine yönelik örnek bir proje.
 ## :books:Layers  
 ![bitmap](https://user-images.githubusercontent.com/77868230/107105115-cb66cf00-6835-11eb-8fd7-9ddc5d7ac56e.png)
